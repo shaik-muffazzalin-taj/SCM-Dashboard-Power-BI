@@ -79,7 +79,7 @@ Timeline-based detection of procurement anomalies
 
 | File                                   | Description                             |
 |----------------------------------------|-----------------------------------------|
-| `Inventory_Procurement_Dashboard.pbix` | Power BI project file (zipped if large) |
+| `Inventory_Procurement_Dashboard.pbix` | Power BI project file |
 | `Inventory_Procurement_Dashboard.pdf`  | Static visual report (exported)         |
 | `README.md`                            | This summary file                       |
 
